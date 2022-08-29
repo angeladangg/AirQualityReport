@@ -1,4 +1,3 @@
-#Angela Dang 80841454
 import json
 import urllib.parse
 import urllib.request
@@ -6,7 +5,7 @@ import helper as h
 import calc
 import sys
 
-
+'''Use this program if you have asthma / sensitive lungs and want to see if it's safe to go outside'''
 
 def run():
     '''handles inputs and printing of the whole program'''
