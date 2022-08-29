@@ -1,6 +1,6 @@
 import math
 
-'''this module contains all the math and calculations needed for Project 3'''
+'''this module contains all the math and calculations needed for calculating distance between user's location and the nearest sensors'''
 
 def _distance(lat1: float, lon1: float, lat2: float, lon2: float)-> float:
     '''calculates the distance from one place to another'''
