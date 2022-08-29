@@ -6,7 +6,7 @@ import time
 import calc
 import sys
 
-'''this modules contains classes and the necessary tools for Project 3 to funciton'''
+'''this modules contains all classes and the necessary tools for Air Quality Check to funciton'''
 
 class Center(): 
     '''String form center coordinates'''
